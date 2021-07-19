@@ -326,7 +326,7 @@ h6 {
 #hero {
     width: 100%;
     height: 100vh;
-    background: url("../img/bg.jpg") top right;
+    background: url("../img/index-bg.jpg") top right;
     background-size: cover;
     position: relative;
 }
@@ -621,7 +621,7 @@ section {
 }
 
 .about .image {
-    background: url("../img/wale.JPG") center center no-repeat;
+    background: url("../img/me.jpg") center center no-repeat;
     background-size: cover;
     min-height: 500px;
 }
